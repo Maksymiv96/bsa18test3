@@ -1,0 +1,11 @@
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\bin\Debug\netcoreapp2.0\bsa18test3.deps.json
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\bin\Debug\netcoreapp2.0\bsa18test3.runtimeconfig.json
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\bin\Debug\netcoreapp2.0\bsa18test3.runtimeconfig.dev.json
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\bin\Debug\netcoreapp2.0\bsa18test3.dll
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\bin\Debug\netcoreapp2.0\bsa18test3.pdb
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.csprojResolveAssemblyReference.cache
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.csproj.CoreCompileInputs.cache
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.AssemblyInfoInputs.cache
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.AssemblyInfo.cs
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.dll
+c:\users\maksymiv\source\repos\bsa18test3\bsa18test3\obj\Debug\netcoreapp2.0\bsa18test3.pdb
